@@ -39,7 +39,7 @@ navigation_header:
 - title: Blog
   url: /blog/
   - title: Testpage
-    url: /this-is-only-a-test/
+    url: /testpage/
 
 # Footer nav
 navigation_footer:
