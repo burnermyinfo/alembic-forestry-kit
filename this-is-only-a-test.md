@@ -1,7 +1,7 @@
 ---
 title: This is only a test
 feature_image: ''
-feature_text: i'm doing something nice this is pretty sick
+feature_text: "### **i'm doing something nice this is pretty sick**"
 aside: false
 
 ---
