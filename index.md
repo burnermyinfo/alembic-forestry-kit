@@ -1,5 +1,5 @@
 ---
-title: Welcome to my website
+title: Testing out this sick tech
 layout: page
 feature_image: "/uploads/photo-1560336749-25b2906392ee.jpg"
 feature_text: "## This is cool"
