@@ -40,6 +40,8 @@ navigation_header:
   url: /blog/
 - title: Testpage
   url: /this-is-only-a-test/
+- title: Search
+  url: /search/
 
 
 # Footer nav
