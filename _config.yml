@@ -38,8 +38,8 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
-  - title: Testpage
-    url: /this-is-only-a-test/
+- title: Testpage
+  url: /this-is-only-a-test/
 
 
 # Footer nav
